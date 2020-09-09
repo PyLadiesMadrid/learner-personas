@@ -1,11 +1,11 @@
-# Learner personas para el taller de PyLadies de iniciación a Python & Django
+# Learner personas
 Las Learner Personas describen el perfil de alumnas y mentores/mentoras para las que está pensado el taller de iniciación a Python & Django de PyLadies. 
 
 Cada persona estará descrita con unos conocimientos o experiencias previas relevantes, la percepción de de sus necesidades y cualquier otra consideración especial que ayude a cualquier persona que lo lea a identificarse y gestionar las expectativas del taller.
 
 Gracias a [Yanina Bellini](https://github.com/yabellini) por esta genial idea y por el formato en el que están basadas las siguientes personas.
 
-# Alumnas
+## Alumnas
 
 Ana la profe
 ------------
