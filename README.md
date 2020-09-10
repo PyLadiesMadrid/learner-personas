@@ -3,7 +3,7 @@ Proyecto con las Learner Personas que se utilizarán para el taller de
 introducción a Python y Django organizado por PyLadies Madrid, DjangoGirls 
 Mallorca y Yes We Tech en el marco de la PyConEs 2020.
 
-Más info sobre el evento (aquí)[https://2020.es.pycon.org/pyladies.html]
+Más info sobre el evento [aquí](https://2020.es.pycon.org/pyladies.html)
 
 Las Learner Personas describen el perfil de alumnas y mentores/mentoras para 
 las que está pensado el taller de iniciación a Python & Django de PyLadies. 
